@@ -1,0 +1,21 @@
+{
+    "name": "pinso22/yii2-importer",
+    "description": "a extension that can import from a certain file in DB ",
+    "type": "yii2-extension",
+    "keywords": "["yii2","extension"]",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Carlo Lazzari",
+            "email": "stage@yetopen.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "pinso22\\yii2Importer\\": ""
+        }
+    }
+}
